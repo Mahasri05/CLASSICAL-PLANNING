@@ -93,7 +93,7 @@ actions = {
     'move_A_to_B': {'precondition': {'A': 'Table', 'B': 'Table'}, 'effect': {'A': 'B'}}
 }
 plan = find_plan(initial_state, goal_state, actions)
-print(plan)
+print(plan) 
 ```
 
 # OUTPUT:
