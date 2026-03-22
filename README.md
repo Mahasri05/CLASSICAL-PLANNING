@@ -11,7 +11,7 @@
 </ol>
 
 # Example - 1
-```
+``` 
 initial_state = {'A': 'Table', 'B': 'Table'}
 goal_state = {'A': 'B', 'B': 'Table'}
 
